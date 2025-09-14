@@ -68,14 +68,14 @@ Password: owner123
 
 ### Backend
 
-cd backend &&
-npm install &&
+cd backend 
+npm install 
 npm start
 
 ### Frontend
 
-cd frontend &&
-npm install &&
+cd frontend 
+npm install
 npm run dev
 
 
